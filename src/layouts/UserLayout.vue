@@ -11,9 +11,7 @@
         <router-view />
       </a-layout-content>
       <a-layout-footer class="footer">
-        <a href="https://yupi.icu" target="_blank">
-          WMING'BLOG
-        </a>
+        <a href="https://yupi.icu" target="_blank"> WMING'BLOG </a>
       </a-layout-footer>
     </a-layout>
   </div>
